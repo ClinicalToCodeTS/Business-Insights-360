@@ -204,14 +204,15 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
       -N&S (Networking, Storage)
 
-- 🛍️ 14 different categories (e.g., Internal HDD, keyboard)
-- 📦 Various product variants
+   -🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 
-- fact_forecast_monthly
+   -📦 Various product variants
 
-     - 🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
-     - 🗃️ Denormalized by the data engineering team for analytical use
-      - 📅 Monthly data with forecast quantities
+   - fact_forecast_monthly
+
+        -🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
+         -🗃️ Denormalized by the data engineering team for analytical use
+         - 📅 Monthly data with forecast quantities
 
 - fact_sales_monthly
  
