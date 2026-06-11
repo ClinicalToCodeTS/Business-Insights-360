@@ -79,9 +79,9 @@ And more
 
 - 📚Business Concepts Covered
 
-     - 💵 Gross Price
+       - 💵 Gross Price
 
-      - 📉 Pre-Invoice Deductions
+       - 📉 Pre-Invoice Deductions
 
       - 🧾 Net Invoice Sales
 
