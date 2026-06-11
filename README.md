@@ -116,7 +116,7 @@ And more
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
-    - 🏬 Retailers
+   - 🏬 Retailers
 
    - 🛒 Direct Sales
 
@@ -136,7 +136,7 @@ Before developing the dashboard, the following questions were addressed:
 
      - 📏 How will the success of this project be measured?
 
- - ⏳ What is the project deadline?
+     - ⏳ What is the project deadline?
 
  - 👀 Do stakeholders expect a preview before the actual release?
 
