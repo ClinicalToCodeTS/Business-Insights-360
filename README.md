@@ -22,55 +22,55 @@ The dashboard was built using the following tools and technologies:
    
  - 📊 Power BI Desktop
 
- -📈 Microsoft Excel
+ - 📈 Microsoft Excel
 
- -🧮 DAX (Data Analysis Expressions)
+ - 🧮 DAX (Data Analysis Expressions)
 
- -⚡ DAX Studio (Performance Optimization)
+ - ⚡ DAX Studio (Performance Optimization)
 
- -📜 Project Charter File
+ - 📜 Project Charter File
 
- -🌐 Power BI Service
+ - 🌐 Power BI Service
 
- -🐙 GitHub 
+ - 🐙 GitHub 
 
 
 
 ## 🛠️ Power BI Skills & Techniques Applied
 
- -🧠 Key questions to ask before starting a project
+ - 🧠 Key questions to ask before starting a project
 
--🧮 Creating calculated columns
+- 🧮 Creating calculated columns
 
--🔢 Creating measures using DAX language
+- 🔢 Creating measures using DAX language
 
--🗂️ Data modeling
+- 🗂️ Data modeling
 
--📑 Using Bookmarks to switch between visuals
+- 📑 Using Bookmarks to switch between visuals
 
--🖱️ Page navigation with buttons
+- 🖱️ Page navigation with buttons
 
--➗ Using the DIVIDE function to prevent zero division errors
+- ➗ Using the DIVIDE function to prevent zero division errors
 
--📅 Creating a date table using M language
+- 📅 Creating a date table using M language
 
--🏷️ Dynamic titles based on applied filters
+- 🏷️ Dynamic titles based on applied filters
 
--📊 Using KPI indicators
+- 📊 Using KPI indicators
 
--🎨 Conditional formatting in visuals using icons or background color
+- 🎨 Conditional formatting in visuals using icons or background color
 
--✔️ Data validation techniques
+- ✔️ Data validation techniques
 
--🌐 PowerBI Services
+- 🌐 PowerBI Services
 
--🚀 Publishing reports to PowerBI Services
+- 🚀 Publishing reports to PowerBI Services
 
--🔄 Setting up a personal gateway for automatic data refresh
+- 🔄 Setting up a personal gateway for automatic data refresh
 
--📱PowerBI App creation
+- 📱PowerBI App creation
 
--🤝- Collaboration, workspace management, and access permissions in PowerBI Services
+- 🤝 Collaboration, workspace management, and access permissions in PowerBI Services
 
 And more
 
@@ -79,35 +79,35 @@ And more
 
 ### 📚 Business Concepts Covered
 
--💵 Gross Price
+- 💵 Gross Price
 
--📉 Pre-Invoice Deductions
+- 📉 Pre-Invoice Deductions
 
--🧾 Net Invoice Sales
+- 🧾 Net Invoice Sales
 
--📈 Post-Invoice Deductions
+- 📈 Post-Invoice Deductions
 
--💲 Net Sales
+- 💲 Net Sales
 
--🏷️ Cost of Goods Sold (COGS)
+- 🏷️ Cost of Goods Sold (COGS)
 
--💰 Gross Margin
+- 💰 Gross Margin
 
--💸 Net Profit
+- 💸 Net Profit
 
--📆 Year-To-Date (YTD)
+- 📆 Year-To-Date (YTD)
 
--📅 Year-To-Go (YTG
+- 📅 Year-To-Go (YTG
 
--Sales Channels
+- Sales Channels
 
-   -🛒 Direct
+   - 🛒 Direct
 
-   -🏬 Retailer
+   - 🏬 Retailer
    
-   -📦 Distributor
+   - 📦 Distributor
 
-   -👥 Consumer
+   - 👥 Consumer
 
 
 
@@ -116,11 +116,11 @@ And more
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
- -🏬 Retailers
+ - 🏬 Retailers
 
- -🛒 Direct Sales
+ - 🛒 Direct Sales
 
- -📦 Distributors
+ - 📦 Distributors
 
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
@@ -128,44 +128,44 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 
 
-#####❓ Key Business Questions
+##### ❓ Key Business Questions
 
 Before developing the dashboard, the following questions were addressed:
 
--❔ What is the objective of building this PowerBI dashboard?
+- ❔ What is the objective of building this PowerBI dashboard?
 
--📏 How will the success of this project be measured?
+- 📏 How will the success of this project be measured?
 
--⏳ What is the project deadline?
+- ⏳ What is the project deadline?
 
--👀 Do stakeholders expect a preview before the actual release?
+- 👀 Do stakeholders expect a preview before the actual release?
 
--💡 What are stakeholders' hopes for this project?
+- 💡 What are stakeholders' hopes for this project?
 
--😟 What are stakeholders' fears regarding this dashboard?
+- 😟 What are stakeholders' fears regarding this dashboard?
 
--👥 Who will use this dashboard and for what purpose?
+- 👥 Who will use this dashboard and for what purpose?
 
--🎯 What are stakeholders' expectations by the end of this project?
+- 🎯 What are stakeholders' expectations by the end of this project?
 
--⚠️ What can go wrong during this project?
+- ⚠️ What can go wrong during this project?
 
--📄 What resources/data are needed to build this dashboard?
+- 📄 What resources/data are needed to build this dashboard?
 
--🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
+- 🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
+ 
 
-
-######🗄️ Dataset Overview
+###### 🗄️ Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
--Dimension Table: Contains static data like customer and product details.
+- Dimension Table: Contains static data like customer and product details.
 
--Fact Table: Contains transaction data.
+- Fact Table: Contains transaction data.
 
 ⛓️‍💥gbd041
-- ** dim_customer
+- dim_customer
 
 -🌍 27 distinct markets (e.g., India, USA, Spain)
 
