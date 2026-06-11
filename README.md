@@ -1,6 +1,6 @@
 # Business-Insights-360
 
- -**📊 AtliQ Hardware Business Insights 360 – Power BI Project
+ -** 📊 AtliQ Hardware Business Insights 360 – Power BI Project
 
    🌟 Project Overview
 
@@ -14,7 +14,7 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
--**💻 Tech Stack
+-** 💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -29,58 +29,92 @@ The dashboard was built using the following tools and technologies:
 
 
 
--**🛠️ Power BI Skills & Techniques Applied
+-** 🛠️ Power BI Skills & Techniques Applied
 
 -🧠 Key questions to ask before starting a project
+
 -🧮 Creating calculated columns
+
 -🔢 Creating measures using DAX language
+
 -🗂️ Data modeling
+
 -📑 Using Bookmarks to switch between visuals
+
 -🖱️ Page navigation with buttons
+
 -➗ Using the DIVIDE function to prevent zero division errors
+
 -📅 Creating a date table using M language
+
 -🏷️ Dynamic titles based on applied filters
+
 -📊 Using KPI indicators
+
 -🎨 Conditional formatting in visuals using icons or background color
+
 -✔️ Data validation techniques
+
 -🌐 PowerBI Services
+
 -🚀 Publishing reports to PowerBI Services
+
 -🔄 Setting up a personal gateway for automatic data refresh
+
 -📱PowerBI App creation
+
 -🤝- Collaboration, workspace management, and access permissions in PowerBI Services
+
 And more
 
 
 
--**📚 Business Concepts Covered
+
+-** 📚 Business Concepts Covered
 
 -💵 Gross Price
+
 -📉 Pre-Invoice Deductions
+
 -🧾 Net Invoice Sales
+
 -📈 Post-Invoice Deductions
+
 -💲 Net Sales
+
 -🏷️ Cost of Goods Sold (COGS)
+
 -💰 Gross Margin
+
 -💸 Net Profit
+
 -📆 Year-To-Date (YTD)
+
 -📅 Year-To-Go (YTG
+
 -Sales Channels
 
 🛒 Direct
+
 🏬 Retailer
+
 📦 Distributor
+
 👥 Consumer
 
 
 
--**🏢 Company Background
+-** 🏢 Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
 -🏬 Retailers
+
 -🛒 Direct Sales
+
 -📦 Distributors
+
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
 To overcome this challenge, AtliQ Hardware initiated a data analytics transformation to support evidence-based decision-making across all business functions.
@@ -92,15 +126,25 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 Before developing the dashboard, the following questions were addressed:
 
 -❔ What is the objective of building this PowerBI dashboard?
+
 -📏 How will the success of this project be measured?
+
 -⏳ What is the project deadline?
+
 -👀 Do stakeholders expect a preview before the actual release?
+
 -💡 What are stakeholders' hopes for this project?
+
 -😟 What are stakeholders' fears regarding this dashboard?
+
 -👥 Who will use this dashboard and for what purpose?
+
 -🎯 What are stakeholders' expectations by the end of this project?
+
 -⚠️ What can go wrong during this project?
+
 -📄 What resources/data are needed to build this dashboard?
+
 -🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
 
@@ -110,35 +154,48 @@ Before developing the dashboard, the following questions were addressed:
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
 -Dimension Table: Contains static data like customer and product details.
+
 -Fact Table: Contains transaction data.
 
-gbd041
+⛓️‍💥gbd041
 - ** dim_customer
 
 -🌍 27 distinct markets (e.g., India, USA, Spain)
+
 -👥 75 distinct customers across markets
+
 -🏢 2 types of platforms:
 
 1 Brick & Mortar - Physical/offline store
+
 2. E-commerce - Online store (Amazon, Flipkart etc.)
  
 -🛒 3 channels:
+
 1. Retailer
+
 2. Direct
+
 3. Distributors
  
 -**dim_market
 
--🌍 27 distinct markets
--🌎 7 sub-zones
--🌏 4 regions: APAC, EU, NAN, LATAM
+    🌍 27 distinct markets
 
--**dim_product
+    🌎 7 sub-zones
+
+    🌏 4 regions: APAC, EU, NAN, LATAM
+
+-** dim_product
 
 -🏷️ Divisions:
-1. P&A (Peripherals, Accessories)
- 2.PC (Notebook, Desktop)
+
+    1. P&A (Peripherals, Accessories)
+
+    2.PC (Notebook, Desktop)
+
     3.N&S (Networking, Storage)
+
 -🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 -📦 Various product variants
 
@@ -152,7 +209,7 @@ gbd041
 
 -💹 Similar to fact_forecast_monthly but includes sold quantities
 
-gdb056
+⛓️‍💥gdb056
 
 -**freight_cost
 -🚚 Travel and other costs per market with fiscal year
