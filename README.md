@@ -116,11 +116,11 @@ And more
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
-    - 🏬 Retailers
+   - 🏬 Retailers
 
-    - 🛒 Direct Sales
+   - 🛒 Direct Sales
 
-    - 📦 Distributors
+   - 📦 Distributors
 
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
@@ -132,11 +132,11 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 Before developing the dashboard, the following questions were addressed:
 
-    - ❔ What is the objective of building this PowerBI dashboard?
+ - ❔ What is the objective of building this PowerBI dashboard?
 
-     - 📏 How will the success of this project be measured?
+ -  📏 How will the success of this project be measured?
 
-     - ⏳ What is the project deadline?
+-    ⏳ What is the project deadline?
 
  - 👀 Do stakeholders expect a preview before the actual release?
 
