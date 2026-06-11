@@ -196,11 +196,11 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 - dim_product
 
-     -🏷️ Divisions:
+     - 🏷️ Divisions:
 
-      - P&A (Peripherals, Accessories)
-
-      - PC (Notebook, Desktop)
+      -P&A (Peripherals, Accessories)
+ 
+      -PC (Notebook, Desktop)
 
       -N&S (Networking, Storage)
 
