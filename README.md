@@ -165,33 +165,33 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 - Fact Table: Contains transaction data.
 
 ⛓️‍💥gbd041
-- dim_customer
+-** dim_customer
 
--🌍 27 distinct markets (e.g., India, USA, Spain)
+- 🌍 27 distinct markets (e.g., India, USA, Spain)
 
--👥 75 distinct customers across markets
+- 👥 75 distinct customers across markets
 
--🏢 2 types of platforms:
+- 🏢 2 types of platforms:
 
     - Brick & Mortar - Physical/offline store
 
     - E-commerce - Online store (Amazon, Flipkart etc.)
  
--🛒 3 channels:
+- 🛒 3 channels:
 
-   - Retailer
+    - Retailer
 
-   - Direct
+    - Direct
 
-   - Distributors
+    - Distributors
  
--**dim_market
+-** dim_market
 
-    🌍 27 distinct markets
+    - 🌍 27 distinct markets
 
-    🌎 7 sub-zones
+    - 🌎 7 sub-zones
 
-    🌏 4 regions: APAC, EU, NAN, LATAM
+    - 🌏 4 regions: APAC, EU, NAN, LATAM
 
 -** dim_product
 
