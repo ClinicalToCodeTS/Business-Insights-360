@@ -101,9 +101,9 @@ And more
 
    - Sales Channels
 
-      - 🛒 Direct
+       - 🛒 Direct
 
-      - 🏬 Retailer
+       - 🏬 Retailer
 
        - 📦 Distributor
 
