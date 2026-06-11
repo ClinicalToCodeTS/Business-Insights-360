@@ -156,6 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
  
 
+
 ####### 🗄️Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
@@ -234,6 +235,7 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 - post_invoice_deductions
        💰 Post-invoice deductions details
+
 
 
 
