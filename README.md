@@ -97,9 +97,9 @@ And more
 
    - 📆 Year-To-Date (YTD)
 
-      - 📅 Year-To-Go (YTG
+   - 📅 Year-To-Go (YTG
 
-      - Sales Channels
+   - Sales Channels
 
           - 🛒 Direct
 
