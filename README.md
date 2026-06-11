@@ -198,15 +198,15 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
      - 🏷️ Divisions:
 
-      -P&A (Peripherals, Accessories)
+       - P&A (Peripherals, Accessories)
  
-      -PC (Notebook, Desktop)
+        -PC (Notebook, Desktop)
+ 
+        -N&S (Networking, Storage)
 
-      -N&S (Networking, Storage)
+   - 🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 
-   -🛍️ 14 different categories (e.g., Internal HDD, keyboard)
-
-   -📦 Various product variants
+   - 📦 Various product variants
 
    - fact_forecast_monthly
 
