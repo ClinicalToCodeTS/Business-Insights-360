@@ -14,7 +14,7 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
-## 💻 Tech Stack
+## 💻Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -36,7 +36,7 @@ The dashboard was built using the following tools and technologies:
 
 
 
-### 🛠️ Power BI Skills & Techniques Applied
+### 🛠️Power BI Skills & Techniques Applied
 
  - 🧠 Key questions to ask before starting a project
 
@@ -77,7 +77,7 @@ And more
 
 
 
-#### 📚 Business Concepts Covered
+#### 📚Business Concepts Covered
 
 - 💵 Gross Price
 
@@ -111,7 +111,7 @@ And more
 
 
 
-##### 🏢 Company Background
+##### 🏢Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
@@ -128,7 +128,7 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 
 
-###### ❓ Key Business Questions
+###### ❓Key Business Questions
 
 Before developing the dashboard, the following questions were addressed:
 
@@ -156,7 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
  
 
-####### 🗄️ Dataset Overview
+####### 🗄️Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
