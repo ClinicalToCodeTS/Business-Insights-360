@@ -1,6 +1,6 @@
 # Business-Insights-360
 
- ############# 📊 AtliQ Hardware Business Insights 360 – Power BI Project
+ # 📊 AtliQ Hardware Business Insights 360 – Power BI Project
 
    🌟 Project Overview
 
@@ -14,7 +14,7 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
-# 💻 Tech Stack
+#3 💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -36,7 +36,7 @@ The dashboard was built using the following tools and technologies:
 
 
 
-## 🛠️ Power BI Skills & Techniques Applied
+### 🛠️ Power BI Skills & Techniques Applied
 
  - 🧠 Key questions to ask before starting a project
 
@@ -77,7 +77,7 @@ And more
 
 
 
-### 📚 Business Concepts Covered
+#### 📚 Business Concepts Covered
 
 - 💵 Gross Price
 
@@ -111,7 +111,7 @@ And more
 
 
 
-#### 🏢 Company Background
+##### 🏢 Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
@@ -128,7 +128,7 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 
 
-##### ❓ Key Business Questions
+###### ❓ Key Business Questions
 
 Before developing the dashboard, the following questions were addressed:
 
@@ -156,7 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
  
 
-###### 🗄️ Dataset Overview
+####### 🗄️ Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
@@ -237,19 +237,19 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 
 
-#######📥 Data Import
+########📥 Data Import
 
 Data was imported directly from a MySQL database into Power BI using database credentials provided for the project.
 
 
 
-########🗂️ Data Model
+#########🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
 ![Data Dashboard](image/DataModelling.png)
 
 
 
-#########🎨 Dashboard Views
+##########🎨 Dashboard Views
 Based on the received mock-ups, the team will design visuals and create measures as needed.
 
 - 🏠 Home View
@@ -265,7 +265,7 @@ The Home view contains buttons to navigate to specific views:
 
 
 
-##########📸 Dashboard Preview
+###########📸 Dashboard Preview
 
 
 - Home View 
@@ -294,7 +294,7 @@ The Home view contains buttons to navigate to specific views:
 
 
 
-###########🏆 Project Outcome
+############🏆 Project Outcome
 
 This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
 
@@ -315,7 +315,7 @@ This Power BI solution empowers stakeholders with a single source of truth for b
 The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
 
 
-############🔗 Resources
+#############🔗 Resources
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 
