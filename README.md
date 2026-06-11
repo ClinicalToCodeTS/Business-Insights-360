@@ -165,27 +165,28 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 - Fact Table: Contains transaction data.
 
 ⛓️‍💥gbd041
--** dim_customer
 
-- 🌍 27 distinct markets (e.g., India, USA, Spain)
+- dim_customer
 
-- 👥 75 distinct customers across markets
+  - 🌍 27 distinct markets (e.g., India, USA, Spain)
+    
+  - 👥 75 distinct customers across markets
 
-- 🏢 2 types of platforms:
+  - 🏢 2 types of platforms:
 
-    - Brick & Mortar - Physical/offline store
+          - Brick & Mortar - Physical/offline store
 
-    - E-commerce - Online store (Amazon, Flipkart etc.)
+          - E-commerce - Online store (Amazon, Flipkart etc.)
  
-- 🛒 3 channels:
+  - 🛒 3 channels:
 
-    - Retailer
+         - Retailer
 
-    - Direct
+         - Direct
 
-    - Distributors
+         - Distributors
  
--** dim_market
+- dim_market
 
     - 🌍 27 distinct markets
 
@@ -193,45 +194,46 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
     - 🌏 4 regions: APAC, EU, NAN, LATAM
 
--** dim_product
+- dim_product
 
--🏷️ Divisions:
+     -🏷️ Divisions:
 
-    - P&A (Peripherals, Accessories)
+           - P&A (Peripherals, Accessories)
 
-    -PC (Notebook, Desktop)
+           -PC (Notebook, Desktop)
 
-    -N&S (Networking, Storage)
+           -N&S (Networking, Storage)
 
--🛍️ 14 different categories (e.g., Internal HDD, keyboard)
--📦 Various product variants
+- 🛍️ 14 different categories (e.g., Internal HDD, keyboard)
+- 📦 Various product variants
 
--**fact_forecast_monthly
+- fact_forecast_monthly
 
--🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
--🗃️ Denormalized by the data engineering team for analytical use
--📅 Monthly data with forecast quantities
+     -🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
+     -🗃️ Denormalized by the data engineering team for analytical use
+      -📅 Monthly data with forecast quantities
 
--**fact_sales_monthly
+- fact_sales_monthly
+ 
+   💹 Similar to fact_forecast_monthly but includes sold quantities
 
--💹 Similar to fact_forecast_monthly but includes sold quantities
 
 ⛓️‍💥gdb056
 
--**freight_cost
--🚚 Travel and other costs per market with fiscal year
+- freight_cost
+      🚚 Travel and other costs per market with fiscal year
 
--**gross_price
--💲 Gross prices with product codes
+- gross_price
+       💲 Gross prices with product codes
 
--**manufacturing_cost
--🏭 Manufacturing costs with product codes and year
+- manufacturing_cost
+       🏭 Manufacturing costs with product codes and year
 
--**pre_invoice_deductions
--💸 Pre-invoice deductions percentage per customer with year
+- pre_invoice_deductions
+       💸 Pre-invoice deductions percentage per customer with year
 
--**post_invoice_deductions
-💰 Post-invoice deductions details
+- post_invoice_deductions
+       💰 Post-invoice deductions details
 
 
 
@@ -250,44 +252,44 @@ Data modeling is crucial for report performance. Poor modeling can negatively im
 #########🎨 Dashboard Views
 Based on the received mock-ups, the team will design visuals and create measures as needed.
 
-🏠 Home View
+- 🏠 Home View
 The Home view contains buttons to navigate to specific views:
 
-ℹ️ Info View
-💵 Finance View
-📈 Sales View
-📊 Marketing View
-🚚 Supply Chain View
-👔 Executive View
-💬 Support View
+     - ℹ️ Info View
+     - 💵 Finance View
+      - 📈 Sales View
+     - 📊 Marketing View
+     - 🚚 Supply Chain View
+     - 👔 Executive View
+     - 💬 Support View
 
 
 
 ##########📸 Dashboard Preview
 
 
-Home View 
+- Home View 
 ![Home Dashboard](image/Home.png)
 
-Finance View  
+- Finance View  
 ![Finance Dashboard](image/FinanceView.png)
 
-Sales View  
+- Sales View  
 ![Sales Dashboard](image/SalesView.png)
 
-Marketing View 
+- Marketing View 
 ![Marketing Dashboard](image/marketingView.png)
 
-Supply Chain View 
+- Supply Chain View 
 ![Supply Chain Dashboard](image/SupplychainView.png)
 
-Executive View 
+- Executive View 
 ![Executive Dashboard](image/ExecutiveView.png)
 
-Support 
+- Support 
 ![Support Dashboard](image/Support.png)
 
-Info 
+- Info 
 ![Info Dashboard](image/Info.png) 
 
 
@@ -296,24 +298,24 @@ Info
 
 This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
 
-Key Benefits
+- Key Benefits
 
-✅ Data-driven decision making
+      - ✅ Data-driven decision making
 
-✅ Improved visibility across departments
+      - ✅ Improved visibility across departments
 
-✅ Faster business insights
+       - ✅ Faster business insights
 
-✅ Enhanced forecasting capabilities
+        - ✅ Enhanced forecasting capabilities
 
-✅ Executive-level KPI monitoring
+         - ✅ Executive-level KPI monitoring
 
-✅ Ability to answer critical “Why?” questions behind business performance
+         - ✅ Ability to answer critical “Why?” questions behind business performance
 
 The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
 
 
-🔗 Resources
+############🔗 Resources
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 
