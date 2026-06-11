@@ -101,13 +101,13 @@ And more
 
    - Sales Channels
 
-          - 🛒 Direct
+     - 🛒 Direct
 
-          - 🏬 Retailer
-      
-           - 📦 Distributor
+     - 🏬 Retailer
 
-           - 👥 Consumer
+      - 📦 Distributor
+
+      - 👥 Consumer
 
 
 
