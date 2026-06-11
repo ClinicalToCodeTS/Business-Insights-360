@@ -178,17 +178,15 @@ Data was imported directly from a MySQL database into Power BI using database cr
 
 🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
-
-
-
+![Data Dashboard](image/DataModelling.png)
 
 
 
 🎨 Dashboard Views
+Based on the received mock-ups, the team will design visuals and create measures as needed.
 
-🏠 Home Page
-
-Central navigation hub with buttons to access:
+🏠 Home View
+The Home view contains buttons to navigate to specific views:
 
 ℹ️ Info View
 💵 Finance View
@@ -197,59 +195,6 @@ Central navigation hub with buttons to access:
 🚚 Supply Chain View
 👔 Executive View
 💬 Support View
-
-
-📄 Dashboard Pages
-
- ℹ️ Info View
- 
-    Project Overview and navigation guide.
-
-💵 Finance View
-
-Revenue, profitability, gross margin, and financial KPIs.
-
-📈 Sales View
-
-Customer performance, product sales, and market analysis.
-
-📊 Marketing View
-
-Marketing effectiveness and product performance insights
-
-🚚 Supply Chain View
-
-Forecast accuracy, inventory planning, and supply chain performance.
-
-
-👔 Executive View
-
-High-level business KPIs for leadership decision-making.
-
-💬 Support View
-
-Additional information and report support details.
-
-
-🏆 Project Outcome
-
-This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
-
-Key Benefits
-
-✅ Data-driven decision making
-
-✅ Improved visibility across departments
-
-✅ Faster business insights
-
-✅ Enhanced forecasting capabilities
-
-✅ Executive-level KPI monitoring
-
-✅ Ability to answer critical “Why?” questions behind business performance
-
-The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
 
 
 
@@ -282,14 +227,38 @@ Info
 
 
 
+🏆 Project Outcome
+
+This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
+
+Key Benefits
+
+✅ Data-driven decision making
+
+✅ Improved visibility across departments
+
+✅ Faster business insights
+
+✅ Enhanced forecasting capabilities
+
+✅ Executive-level KPI monitoring
+
+✅ Ability to answer critical “Why?” questions behind business performance
+
+The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
+
+
 🔗 Resources
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
+
 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWZhYmJiYWQtYmE1MC00ODRlLWIzZjAtMDJkZDc2YTY1YmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Project Report (.pbix): https://github.com/ClinicalToCodeTS/Business-Insights-360
 
 
 👨‍💻 Author
 
 Your Name
+Triveni Sharma
 
