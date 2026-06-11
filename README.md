@@ -77,50 +77,50 @@ And more
 
 
 
-#### 📚Business Concepts Covered
+- 📚Business Concepts Covered
 
-- 💵 Gross Price
+     - 💵 Gross Price
 
-- 📉 Pre-Invoice Deductions
+      - 📉 Pre-Invoice Deductions
 
-- 🧾 Net Invoice Sales
+      - 🧾 Net Invoice Sales
 
-- 📈 Post-Invoice Deductions
+       - 📈 Post-Invoice Deductions
 
-- 💲 Net Sales
+        - 💲 Net Sales
 
-- 🏷️ Cost of Goods Sold (COGS)
+       - 🏷️ Cost of Goods Sold (COGS)
 
-- 💰 Gross Margin
+        - 💰 Gross Margin
 
-- 💸 Net Profit
+       - 💸 Net Profit
 
-- 📆 Year-To-Date (YTD)
+       - 📆 Year-To-Date (YTD)
 
-- 📅 Year-To-Go (YTG
+       - 📅 Year-To-Go (YTG
 
-- Sales Channels
+       - Sales Channels
 
-   - 🛒 Direct
+             - 🛒 Direct
 
-   - 🏬 Retailer
-   
-   - 📦 Distributor
+             - 🏬 Retailer
+      
+            - 📦 Distributor
 
-   - 👥 Consumer
+               - 👥 Consumer
 
 
 
-##### 🏢Company Background
+- 🏢Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
- - 🏬 Retailers
+        - 🏬 Retailers
 
- - 🛒 Direct Sales
+         - 🛒 Direct Sales
 
- - 📦 Distributors
+        - 📦 Distributors
 
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
