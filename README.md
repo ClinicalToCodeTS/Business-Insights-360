@@ -14,7 +14,7 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
-#3 💻 Tech Stack
+## 💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
