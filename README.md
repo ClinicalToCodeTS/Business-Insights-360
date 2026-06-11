@@ -34,6 +34,8 @@ The dashboard was built using the following tools and technologies:
 
  - 🐙 GitHub 
 
+---
+
 
 
 ### 🛠️Power BI Skills & Techniques Applied
@@ -74,7 +76,7 @@ The dashboard was built using the following tools and technologies:
 
 And more
 
-
+---
 
 
 - 📚Business Concepts Covered
@@ -126,7 +128,7 @@ Recently, the company faced significant losses after expanding into the American
 
 To overcome this challenge, AtliQ Hardware initiated a data analytics transformation to support evidence-based decision-making across all business functions.
 
-
+---
 
 - ❓Key Business Questions
 
@@ -154,7 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
  - 🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
- 
+ ---
 
 -  🗄️Dataset Overview
 
@@ -239,20 +241,14 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
        💰 Post-invoice deductions details
 
 
-
-
-
-
-
+---
 
 -  📥 Data Import
 
 Data was imported directly from a MySQL database into Power BI using database credentials provided for the project.
 
 
-
-
-
+---
 
 
  #### 🗂️ Data Model
@@ -260,10 +256,7 @@ Data modeling is crucial for report performance. Poor modeling can negatively im
 ![Data Dashboard](image/DataModelling.png)
 
 
-
-
-
-
+---
 
 -  🎨 Dashboard Views
 
@@ -281,7 +274,7 @@ The Home view contains buttons to navigate to specific views:
    -  👔 Executive View
    -  💬 Support View
 
-
+---
 
 ##### 📸 Dashboard Preview
 
@@ -310,7 +303,7 @@ The Home view contains buttons to navigate to specific views:
 - Info 
 ![Info Dashboard](image/Info.png) 
 
-
+---
 
 ###### 🏆 Project Outcome
 
@@ -332,7 +325,7 @@ This Power BI solution empowers stakeholders with a single source of truth for b
 
 The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
 
-
+---
 
 - 🔗 Resources
 
