@@ -240,6 +240,7 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 
 
+
 -  📥 Data Import
 
 Data was imported directly from a MySQL database into Power BI using database credentials provided for the project.
@@ -249,6 +250,7 @@ Data was imported directly from a MySQL database into Power BI using database cr
  #### 🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
 ![Data Dashboard](image/DataModelling.png)
+
 
 
 
