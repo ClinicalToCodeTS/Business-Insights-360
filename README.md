@@ -180,11 +180,11 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
  
   - 🛒 3 channels:
 
-         - Retailer
+    - Retailer
 
-         - Direct
+     - Direct
 
-         - Distributors
+    - Distributors
  
 - dim_market
 
@@ -198,9 +198,9 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
      -🏷️ Divisions:
 
-           - P&A (Peripherals, Accessories)
+          - P&A (Peripherals, Accessories)
 
-           -PC (Notebook, Desktop)
+             -PC (Notebook, Desktop)
 
            -N&S (Networking, Storage)
 
