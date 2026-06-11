@@ -200,9 +200,9 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
        - P&A (Peripherals, Accessories)
  
-        -PC (Notebook, Desktop)
+       - PC (Notebook, Desktop)
  
-        -N&S (Networking, Storage)
+       - N&S (Networking, Storage)
 
    - 🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 
@@ -210,8 +210,10 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
    - fact_forecast_monthly
 
-        -🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
-         -🗃️ Denormalized by the data engineering team for analytical use
+        - 🔮 Forecasts customer needs to improve satisfaction and reduce warehouse cost
+
+         - 🗃️ Denormalized by the data engineering team for analytical use
+
          - 📅 Monthly data with forecast quantities
 
 - fact_sales_monthly
