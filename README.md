@@ -1,8 +1,8 @@
-# Business-Insights-360
-
  # 📊 AtliQ Hardware Business Insights 360 – Power BI Project
+---
 
    🌟 Project Overview
+   ---
 
 AtliQ Hardware has experienced rapid growth in recent years. To stay competitive and enable data-driven decision-making, the company invested in building an analytics solution using Power BI.
 
