@@ -156,7 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
  
 
- ####### 🗄️Dataset Overview
+-  🗄️Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
@@ -174,9 +174,9 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
   - 🏢 2 types of platforms:
 
-          - Brick & Mortar - Physical/offline store
+     - Brick & Mortar - Physical/offline store
 
-          - E-commerce - Online store (Amazon, Flipkart etc.)
+      - E-commerce - Online store (Amazon, Flipkart etc.)
  
   - 🛒 3 channels:
 
