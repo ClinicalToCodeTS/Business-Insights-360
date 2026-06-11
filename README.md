@@ -198,20 +198,20 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
      -🏷️ Divisions:
 
-          - P&A (Peripherals, Accessories)
+      - P&A (Peripherals, Accessories)
 
-             -PC (Notebook, Desktop)
+      - PC (Notebook, Desktop)
 
-           -N&S (Networking, Storage)
+      -N&S (Networking, Storage)
 
 - 🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 - 📦 Various product variants
 
 - fact_forecast_monthly
 
-     -🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
-     -🗃️ Denormalized by the data engineering team for analytical use
-      -📅 Monthly data with forecast quantities
+     - 🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
+     - 🗃️ Denormalized by the data engineering team for analytical use
+      - 📅 Monthly data with forecast quantities
 
 - fact_sales_monthly
  
