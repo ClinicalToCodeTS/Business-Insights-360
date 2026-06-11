@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-1.   📊 AtliQ Hardware Business Insights 360 – Power BI Project
+ -**📊 AtliQ Hardware Business Insights 360 – Power BI Project
 
    🌟 Project Overview
 
@@ -14,67 +14,57 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
-💻 Tech Stack
+-**💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-🐬 SQL
-📊 Power BI Desktop 
-📈 Microsoft Excel
-🧮 DAX (Data Analysis Expressions)
-⚡ DAX Studio (Performance Optimization)
-📜 Project Charter Document
-🌐 Power BI Service
-🐙 GitHub 
+-🐬 SQL
+-📊 Power BI Desktop 
+-📈 Microsoft Excel
+-🧮 DAX (Data Analysis Expressions)
+-⚡ DAX Studio (Performance Optimization)
+-📜 Project Charter File
+-🌐 Power BI Service
+-🐙 GitHub 
 
 
-🛠️ Power BI Skills & Techniques Applied
 
-Data Preparation & Modeling
+-**🛠️ Power BI Skills & Techniques Applied
 
-Data Import from MySQL Database
-Data Cleaning & Transformation
-Snowflake Data Modeling
-Creating Calculated Columns
-Creating Measures using DAX
-Building Date Tables using Power Query (M Language)
-Report Development
-
-KPI Indicators
-Dynamic Titles based on Filters
-Conditional Formatting
-Bookmarks for Visual Switching
-Page Navigation using Buttons
-Drill-through & Interactive Visuals
-DIVIDE Function for Error Handling
-Performance Optimization
-
-DAX Studio Performance Analysis
-Data Validation Techniques
-Report Optimization Best Practices
-Power BI Service
-
-Publishing Reports
-Setting Up Personal Gateway
-Scheduled Data Refresh
-Power BI App Creation
-Workspace Management
-Access Control & Collaboration
+-🧠 Key questions to ask before starting a project
+-🧮 Creating calculated columns
+-🔢 Creating measures using DAX language
+-🗂️ Data modeling
+-📑 Using Bookmarks to switch between visuals
+-🖱️ Page navigation with buttons
+-➗ Using the DIVIDE function to prevent zero division errors
+-📅 Creating a date table using M language
+-🏷️ Dynamic titles based on applied filters
+-📊 Using KPI indicators
+-🎨 Conditional formatting in visuals using icons or background color
+-✔️ Data validation techniques
+-🌐 PowerBI Services
+-🚀 Publishing reports to PowerBI Services
+-🔄 Setting up a personal gateway for automatic data refresh
+-📱PowerBI App creation
+-🤝- Collaboration, workspace management, and access permissions in PowerBI Services
+And more
 
 
-📚 Business Concepts Covered
 
-💵 Gross Price
-📉 Pre-Invoice Deductions
-🧾 Net Invoice Sales
-📈 Post-Invoice Deductions
-💲 Net Sales
-🏷️ Cost of Goods Sold (COGS)
-💰 Gross Margin
-💸 Net Profit
-📆 Year-To-Date (YTD)
-📅 Year-To-Go (YTG)
-Sales Channels
+-**📚 Business Concepts Covered
+
+-💵 Gross Price
+-📉 Pre-Invoice Deductions
+-🧾 Net Invoice Sales
+-📈 Post-Invoice Deductions
+-💲 Net Sales
+-🏷️ Cost of Goods Sold (COGS)
+-💰 Gross Margin
+-💸 Net Profit
+-📆 Year-To-Date (YTD)
+-📅 Year-To-Go (YTG
+-Sales Channels
 
 🛒 Direct
 🏬 Retailer
@@ -82,15 +72,15 @@ Sales Channels
 👥 Consumer
 
 
-🏢 Company Background
+
+-**🏢 Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
-
 The company operates through three primary channels:
 
-🏬 Retailers
-🛒 Direct Sales
-📦 Distributors
+-🏬 Retailers
+-🛒 Direct Sales
+-📦 Distributors
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
 To overcome this challenge, AtliQ Hardware initiated a data analytics transformation to support evidence-based decision-making across all business functions.
@@ -101,80 +91,83 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 Before developing the dashboard, the following questions were addressed:
 
-What is the primary objective of the dashboard?
-How will project success be measured?
-What is the expected timeline?
-Who are the key stakeholders?
-What insights are stakeholders expecting?
-What potential risks could impact the project?
-What resources and datasets are required?
-Are there any design preferences or reporting expectations?
+-❔ What is the objective of building this PowerBI dashboard?
+-📏 How will the success of this project be measured?
+-⏳ What is the project deadline?
+-👀 Do stakeholders expect a preview before the actual release?
+-💡 What are stakeholders' hopes for this project?
+-😟 What are stakeholders' fears regarding this dashboard?
+-👥 Who will use this dashboard and for what purpose?
+-🎯 What are stakeholders' expectations by the end of this project?
+-⚠️ What can go wrong during this project?
+-📄 What resources/data are needed to build this dashboard?
+-🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
 
-🗄️ Dataset Overview
 
-Dimension Tables
+-**🗄️ Dataset Overview
 
-dim_customer
+Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
-🌍 27 Markets
-👥 75 Customers
-🏢 Platforms:
-Brick & Mortar
-E-Commerce
-🛒 Channels:
-Retailer
-Direct
-Distributor
-dim_market
+-Dimension Table: Contains static data like customer and product details.
+-Fact Table: Contains transaction data.
 
-🌍 27 Markets
-🌎 7 Sub-zones
-🌏 4 Regions:
-APAC
-EU
-NAN
-LATAM
-dim_product
+gbd041
+- ** dim_customer
 
-🏷️ Divisions:
-P&A (Peripherals & Accessories)
-PC (Notebooks & Desktops)
-N&S (Networking & Storage)
-🛍️ 14 Product Categories
-📦 Multiple Product Variants
+-🌍 27 distinct markets (e.g., India, USA, Spain)
+-👥 75 distinct customers across markets
+-🏢 2 types of platforms:
 
+1 Brick & Mortar - Physical/offline store
+2. E-commerce - Online store (Amazon, Flipkart etc.)
+ 
+-🛒 3 channels:
+1. Retailer
+2. Direct
+3. Distributors
+ 
+-**dim_market
 
-Fact Tables
+-🌍 27 distinct markets
+-🌎 7 sub-zones
+-🌏 4 regions: APAC, EU, NAN, LATAM
 
-fact_forecast_monthly
+-**dim_product
 
-Customer demand forecasts
-Monthly forecast quantities
-Supports inventory and warehouse planning
-fact_sales_monthly
+-🏷️ Divisions:
+1. P&A (Peripherals, Accessories)
+ 2.PC (Notebook, Desktop)
+    3.N&S (Networking, Storage)
+-🛍️ 14 different categories (e.g., Internal HDD, keyboard)
+-📦 Various product variants
 
-Monthly sales transactions
-Sold quantities and revenue analysis
+-**fact_forecast_monthly
 
+-🔮 Forecasts customer needs to improve satisfaction and reduce warehouse costs
+-🗃️ Denormalized by the data engineering team for analytical use
+-📅 Monthly data with forecast quantities
 
-Additional Financial Tables
+-**fact_sales_monthly
 
-freight_cost
+-💹 Similar to fact_forecast_monthly but includes sold quantities
 
-Market-wise freight and logistics costs
-gross_price
+gdb056
 
-Product-level gross pricing information
-manufacturing_cost
+-**freight_cost
+-🚚 Travel and other costs per market with fiscal year
 
-Product manufacturing costs
-pre_invoice_deductions
+-**gross_price
+-💲 Gross prices with product codes
 
-Customer-specific discount percentages
-post_invoice_deductions
+-**manufacturing_cost
+-🏭 Manufacturing costs with product codes and year
 
-Additional invoice deductions and adjustments
+-**pre_invoice_deductions
+-💸 Pre-invoice deductions percentage per customer with year
+
+-**post_invoice_deductions
+💰 Post-invoice deductions details
 
 
 📥 Data Import
@@ -184,14 +177,10 @@ Data was imported directly from a MySQL database into Power BI using database cr
 
 
 🗂️ Data Model
+Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
 
-A Snowflake Schema data model was implemented to ensure:
 
-Better scalability
-Efficient query performance
-Easier maintenance
-Optimized reporting experience
-Well-structured data modeling is one of the most critical factors affecting Power BI report performance.
+
 
 
 
@@ -297,16 +286,10 @@ Info
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWZhYmJiYWQtYmE1MC00ODRlLWIzZjAtMDJkZDc2YTY1YmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-Project Report (.pbix): Add Repository File Link
+Project Report (.pbix): https://github.com/ClinicalToCodeTS/Business-Insights-360
 
 
 👨‍💻 Author
 
 Your Name
 
-If you found this project helpful, consider giving it a ⭐ o
-
-itHub!
-:::
-
-This version is structured to look professional and recruiter-friendly while following common GitHub analytics project standards.
