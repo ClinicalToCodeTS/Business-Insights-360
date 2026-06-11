@@ -20,7 +20,7 @@ The dashboard was built using the following tools and technologies:
 
  - 🐬 SQL
    
-    -📊 Power BI Desktop
+ - 📊 Power BI Desktop
 
  -📈 Microsoft Excel
 
