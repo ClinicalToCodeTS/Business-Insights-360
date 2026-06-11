@@ -212,45 +212,35 @@ Central navigation hub with buttons to access:
 
 📄 Dashboard Pages
 
-## ℹ️ Info View
-
-![Info Dashboard](image/Info.png)
+ ℹ️ Info View
+ 
+    Project Overview and navigation guide.
 
 💵 Finance View
 
 Revenue, profitability, gross margin, and financial KPIs.
 
-![Finance Dashboard](image/FinanceView.png)
-
 📈 Sales View
 
 Customer performance, product sales, and market analysis.
 
-![Sales Dashboard](image/SalesView.png)
-
-
 📊 Marketing View
 
 Marketing effectiveness and product performance insights
-.
-![Marketing Dashboard](image/marketingView.png)
 
 🚚 Supply Chain View
 
 Forecast accuracy, inventory planning, and supply chain performance.
 
-![Supply Chain Dashboard](image/SupplychainView.png)
 
 👔 Executive View
 
 High-level business KPIs for leadership decision-making.
-![Executive Dashboard](image/ExecutiveView.png)
 
 💬 Support View
 
 Additional information and report support details.
 
-![Support Dashboard](image/Support.png)
 
 🏆 Project Outcome
 
@@ -276,20 +266,37 @@ The dashboard helps AtliQ Hardware move from intuition-based decisions to a data
 
 📸 Dashboard Preview
 
-Add screenshots of the following pages:
 
-Home View -
-Finance View
-Sales View
-Marketing View
-Supply Chain View
-Executive View
+Home View 
+![Home Dashboard](image/Home.png)
+
+Finance View  
+![Finance Dashboard](image/FinanceView.png)
+
+Sales View  
+![Sales Dashboard](image/SalesView.png)
+
+Marketing View 
+![Marketing Dashboard](image/marketingView.png)
+
+Supply Chain View 
+![Supply Chain Dashboard](image/SupplychainView.png)
+
+Executive View 
+![Executive Dashboard](image/ExecutiveView.png)
+
+Support 
+![Support Dashboard](image/Support.png)
+
+Info 
+![Info Dashboard](image/Info.png) 
+
 
 
 🔗 Resources
 
-Codebasics Power BI Course: Add Course Link
-Live Dashboard: Add Power BI Report Link
+Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWZhYmJiYWQtYmE1MC00ODRlLWIzZjAtMDJkZDc2YTY1YmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 Project Report (.pbix): Add Repository File Link
 
 
