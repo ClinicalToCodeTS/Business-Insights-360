@@ -255,18 +255,20 @@ Data modeling is crucial for report performance. Poor modeling can negatively im
 
 
 -  🎨 Dashboard Views
+
 Based on the received mock-ups, the team will design visuals and create measures as needed.
 
-- 🏠 Home View
+   🏠 Home View
+
 The Home view contains buttons to navigate to specific views:
 
-     - ℹ️ Info View
-     - 💵 Finance View
-      - 📈 Sales View
-     - 📊 Marketing View
-     - 🚚 Supply Chain View
-     - 👔 Executive View
-     - 💬 Support View
+   - ℹ️ Info View
+   - 💵 Finance View
+   - 📈 Sales View
+   -  📊 Marketing View
+   -  🚚 Supply Chain View
+   -  👔 Executive View
+   -  💬 Support View
 
 
 
