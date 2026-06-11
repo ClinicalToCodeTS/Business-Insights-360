@@ -111,7 +111,7 @@ And more
 
        - 👥 Consumer
 
-
+---
 
 - 🏢Company Background
 
