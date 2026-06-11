@@ -20,19 +20,19 @@ The dashboard was built using the following tools and technologies:
 
  - 🐬 SQL
    
--📊 Power BI Desktop
+ -📊 Power BI Desktop
 
--📈 Microsoft Excel
+ -📈 Microsoft Excel
 
--🧮 DAX (Data Analysis Expressions)
+ -🧮 DAX (Data Analysis Expressions)
 
--⚡ DAX Studio (Performance Optimization)
+ -⚡ DAX Studio (Performance Optimization)
 
--📜 Project Charter File
+ -📜 Project Charter File
 
--🌐 Power BI Service
+ -🌐 Power BI Service
 
--🐙 GitHub 
+ -🐙 GitHub 
 
 
 
