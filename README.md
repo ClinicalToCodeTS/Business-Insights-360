@@ -79,35 +79,35 @@ And more
 
 - 📚Business Concepts Covered
 
-       - 💵 Gross Price
+   - 💵 Gross Price
 
-       - 📉 Pre-Invoice Deductions
+   - 📉 Pre-Invoice Deductions
 
-      - 🧾 Net Invoice Sales
+   - 🧾 Net Invoice Sales
 
-       - 📈 Post-Invoice Deductions
+   - 📈 Post-Invoice Deductions
 
-        - 💲 Net Sales
+   - 💲 Net Sales
 
-       - 🏷️ Cost of Goods Sold (COGS)
+   - 🏷️ Cost of Goods Sold (COGS)
 
-        - 💰 Gross Margin
+   - 💰 Gross Margin
 
-       - 💸 Net Profit
+    - 💸 Net Profit
 
-       - 📆 Year-To-Date (YTD)
+   - 📆 Year-To-Date (YTD)
 
-       - 📅 Year-To-Go (YTG
+      - 📅 Year-To-Go (YTG
 
-       - Sales Channels
+      - Sales Channels
 
-             - 🛒 Direct
+          - 🛒 Direct
 
-             - 🏬 Retailer
+          - 🏬 Retailer
       
-            - 📦 Distributor
+           - 📦 Distributor
 
-               - 👥 Consumer
+           - 👥 Consumer
 
 
 
