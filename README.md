@@ -116,11 +116,11 @@ And more
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
-        - 🏬 Retailers
+     - 🏬 Retailers
 
-         - 🛒 Direct Sales
+     - 🛒 Direct Sales
 
-        - 📦 Distributors
+     - 📦 Distributors
 
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
@@ -128,31 +128,31 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 
 
-###### ❓Key Business Questions
+- ❓Key Business Questions
 
 Before developing the dashboard, the following questions were addressed:
 
-- ❔ What is the objective of building this PowerBI dashboard?
+ - ❔ What is the objective of building this PowerBI dashboard?
 
-- 📏 How will the success of this project be measured?
+ - 📏 How will the success of this project be measured?
 
-- ⏳ What is the project deadline?
+ - ⏳ What is the project deadline?
 
-- 👀 Do stakeholders expect a preview before the actual release?
+ - 👀 Do stakeholders expect a preview before the actual release?
 
-- 💡 What are stakeholders' hopes for this project?
+ - 💡 What are stakeholders' hopes for this project?
 
-- 😟 What are stakeholders' fears regarding this dashboard?
+ - 😟 What are stakeholders' fears regarding this dashboard?
 
-- 👥 Who will use this dashboard and for what purpose?
+ - 👥 Who will use this dashboard and for what purpose?
 
-- 🎯 What are stakeholders' expectations by the end of this project?
+ - 🎯 What are stakeholders' expectations by the end of this project?
 
-- ⚠️ What can go wrong during this project?
+ - ⚠️ What can go wrong during this project?
 
-- 📄 What resources/data are needed to build this dashboard?
+ - 📄 What resources/data are needed to build this dashboard?
 
-- 🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
+ - 🖌️ Are there any stakeholder inputs regarding the dashboard's design and views?
 
  
 
