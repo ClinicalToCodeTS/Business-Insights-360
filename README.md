@@ -237,19 +237,19 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 
 
-########📥 Data Import
+######## 📥 Data Import
 
 Data was imported directly from a MySQL database into Power BI using database credentials provided for the project.
 
 
 
-#########🗂️ Data Model
+######### 🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
 ![Data Dashboard](image/DataModelling.png)
 
 
 
-##########🎨 Dashboard Views
+########## 🎨 Dashboard Views
 Based on the received mock-ups, the team will design visuals and create measures as needed.
 
 - 🏠 Home View
@@ -265,7 +265,7 @@ The Home view contains buttons to navigate to specific views:
 
 
 
-###########📸 Dashboard Preview
+########### 📸 Dashboard Preview
 
 
 - Home View 
@@ -294,7 +294,7 @@ The Home view contains buttons to navigate to specific views:
 
 
 
-############🏆 Project Outcome
+############ 🏆 Project Outcome
 
 This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
 
@@ -315,7 +315,7 @@ This Power BI solution empowers stakeholders with a single source of truth for b
 The dashboard helps AtliQ Hardware move from intuition-based decisions to a data-first culture, enabling smarter strategic planning and sustainable business growth.
 
 
-#############🔗 Resources
+############# 🔗 Resources
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 
