@@ -14,24 +14,31 @@ The project was developed as part of the Codebasics Power BI Course and focuses 
 
 
 
--** 💻 Tech Stack
+# 💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
--🐬 SQL
--📊 Power BI Desktop 
+ - 🐬 SQL
+   
+-📊 Power BI Desktop
+
 -📈 Microsoft Excel
+
 -🧮 DAX (Data Analysis Expressions)
+
 -⚡ DAX Studio (Performance Optimization)
+
 -📜 Project Charter File
+
 -🌐 Power BI Service
+
 -🐙 GitHub 
 
 
 
--** 🛠️ Power BI Skills & Techniques Applied
+## 🛠️ Power BI Skills & Techniques Applied
 
--🧠 Key questions to ask before starting a project
+ -🧠 Key questions to ask before starting a project
 
 -🧮 Creating calculated columns
 
@@ -70,7 +77,7 @@ And more
 
 
 
--** 📚 Business Concepts Covered
+### 📚 Business Concepts Covered
 
 -💵 Gross Price
 
@@ -94,26 +101,26 @@ And more
 
 -Sales Channels
 
-🛒 Direct
+   -🛒 Direct
 
-🏬 Retailer
+   -🏬 Retailer
+   
+   -📦 Distributor
 
-📦 Distributor
-
-👥 Consumer
+   -👥 Consumer
 
 
 
--** 🏢 Company Background
+#### 🏢 Company Background
 
 AtliQ Hardware is a global manufacturer and distributor of computers and computer accessories.
 The company operates through three primary channels:
 
--🏬 Retailers
+ -🏬 Retailers
 
--🛒 Direct Sales
+ -🛒 Direct Sales
 
--📦 Distributors
+ -📦 Distributors
 
 Recently, the company faced significant losses after expanding into the American market based primarily on surveys, intuition, and limited Excel analysis. Meanwhile, competitors were leveraging advanced analytics for strategic decisions.
 
@@ -121,7 +128,7 @@ To overcome this challenge, AtliQ Hardware initiated a data analytics transforma
 
 
 
-❓ Key Business Questions
+#####❓ Key Business Questions
 
 Before developing the dashboard, the following questions were addressed:
 
@@ -149,7 +156,7 @@ Before developing the dashboard, the following questions were addressed:
 
 
 
--**🗄️ Dataset Overview
+######🗄️ Dataset Overview
 
 Understanding available data is crucial before analysis. Familiarize yourself with the data:
 
@@ -166,17 +173,17 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 -🏢 2 types of platforms:
 
-1 Brick & Mortar - Physical/offline store
+    - Brick & Mortar - Physical/offline store
 
-2. E-commerce - Online store (Amazon, Flipkart etc.)
+    - E-commerce - Online store (Amazon, Flipkart etc.)
  
 -🛒 3 channels:
 
-1. Retailer
+   - Retailer
 
-2. Direct
+   - Direct
 
-3. Distributors
+   - Distributors
  
 -**dim_market
 
@@ -190,11 +197,11 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 
 -🏷️ Divisions:
 
-    1. P&A (Peripherals, Accessories)
+    - P&A (Peripherals, Accessories)
 
-    2.PC (Notebook, Desktop)
+    -PC (Notebook, Desktop)
 
-    3.N&S (Networking, Storage)
+    -N&S (Networking, Storage)
 
 -🛍️ 14 different categories (e.g., Internal HDD, keyboard)
 -📦 Various product variants
@@ -227,19 +234,20 @@ Understanding available data is crucial before analysis. Familiarize yourself wi
 💰 Post-invoice deductions details
 
 
-📥 Data Import
+
+#######📥 Data Import
 
 Data was imported directly from a MySQL database into Power BI using database credentials provided for the project.
 
 
 
-🗂️ Data Model
+########🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
 ![Data Dashboard](image/DataModelling.png)
 
 
 
-🎨 Dashboard Views
+#########🎨 Dashboard Views
 Based on the received mock-ups, the team will design visuals and create measures as needed.
 
 🏠 Home View
@@ -255,7 +263,7 @@ The Home view contains buttons to navigate to specific views:
 
 
 
-📸 Dashboard Preview
+##########📸 Dashboard Preview
 
 
 Home View 
@@ -284,7 +292,7 @@ Info
 
 
 
-🏆 Project Outcome
+###########🏆 Project Outcome
 
 This Power BI solution empowers stakeholders with a single source of truth for business performance monitoring.
 
