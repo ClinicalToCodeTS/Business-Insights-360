@@ -330,7 +330,7 @@ The dashboard helps AtliQ Hardware move from intuition-based decisions to a data
 
 Codebasics Power BI Course: https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 
-Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWZhYmJiYWQtYmE1MC00ODRlLWIzZjAtMDJkZDc2YTY1YmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiOWZhYmJiYWQtYmE1MC00ODRlLWIzZjAtMDJkZDc2YTY1YmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Project Report (.pbix): https://github.com/ClinicalToCodeTS/Business-Insights-360
 
