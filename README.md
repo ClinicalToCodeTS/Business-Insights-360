@@ -252,7 +252,7 @@ Data was imported directly from a MySQL database into Power BI using database cr
 
  #### 🗂️ Data Model
 Data modeling is crucial for report performance. Poor modeling can negatively impact the report. This project uses the Snowfall data modeling method.
-![Data Dashboard](image/DataModelling.png)
+![Data modelling Dashboard](DataModelling.png)
 
 
 ---
@@ -279,28 +279,28 @@ The Home view contains buttons to navigate to specific views:
 
 
 - Home View 
-![Home Dashboard](image/Home.png)
+![Home Dashboard](Home.png)
 
 - Finance View  
-![Finance Dashboard](image/FinanceView.png)
+![Finance Dashboard](FinanceView.png)
 
 - Sales View  
-![Sales Dashboard](image/SalesView.png)
+![Sales Dashboard](SalesView.png)
 
 - Marketing View 
-![Marketing Dashboard](image/marketingView.png)
+![Marketing Dashboard](marketingView.png)
 
 - Supply Chain View 
-![Supply Chain Dashboard](image/SupplychainView.png)
+![Supply Chain Dashboard](SupplychainView.png)
 
 - Executive View 
-![Executive Dashboard](image/ExecutiveView.png)
+![Executive Dashboard](ExecutiveView.png)
 
 - Support 
-![Support Dashboard](image/Support.png)
+![Support Dashboard](Support.png)
 
 - Info 
-![Info Dashboard](image/Info.png) 
+![Info Dashboard](Info.png) 
 
 ---
 
