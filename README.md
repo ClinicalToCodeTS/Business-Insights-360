@@ -288,10 +288,10 @@ The Home view contains buttons to navigate to specific views:
 ![Sales Dashboard](Sales%20View.png)
 
 - Marketing View 
-![Marketing Dashboard](marketing%20View.png)
+![Marketing Dashboard](Marketing%20View.png)
 
 - Supply Chain View 
-![Supply Chain Dashboard](Supply%20chain%20View.png)
+![Supply Chain Dashboard](Supply%20Chain%20View.png)
 
 - Executive View 
 ![Executive Dashboard](Executive%20View.png)
